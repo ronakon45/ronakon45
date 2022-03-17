@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronakon45
 - 👀 I’m interested in nice technology.
-- 🌱 I’m currently learning mongodb, cuba platform and spring boot.
+- 🌱 I’m currently learning realtime event.
 - 💞️ I’m looking to collaborate on Great Team.
 - 📫 How to reach me ...
 
